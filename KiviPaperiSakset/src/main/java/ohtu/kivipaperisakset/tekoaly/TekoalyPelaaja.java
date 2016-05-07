@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ohtu.kivipaperisakset;
+package ohtu.kivipaperisakset.tekoaly;
 
 /**
  *
- * @author airta
+ * @author emivo
  */
-public interface Komento {
-    void suorita();
+public interface TekoalyPelaaja {
+
+    String annaSiirto();
+    void asetaSiirto(String siirto);
+    
 }
