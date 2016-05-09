@@ -1,0 +1,10 @@
+# Referaatti ohjelmistotuotantomenetelmien kehityksestä
+Kandidaatintutkielmassaan *Ohjelmistotuotantomenetelmien kehittyminen 1950-
+luvulta nykypäivään* Lauri Suomalainen kertoo erilaisista ohjelmistotuotantomenetelmistä. Suomalainen pyrkii vastaamaan kysymyksiin mistä on kyse, miksi erilaisia ohjelmistotuotantomenetelmiä käytetään, mitä hyötyä ja mitä haittaa. Tutkielman alku keskittyy esittelemään ohjelmistotuonnon yleisesti. Tutkielmassa Suomalainen jakaa tuotantomenetelmät perinteiseen lineaariseen malliin, ikrementaalisiin ja iteratiivisiin sekä ketteriin malleihin. Perinteiset ohjelmistotuotanto menetelmät ovat suunnitelmavetoisia eli missä pyritään määrittelemään koko projekti heti alkuvaiheissa siten, että kaikki tuotantovaiheet ovat eritelty ja ne voidaan suorittaa järjestyksessä. Näiden menetelmien pahimpana heikkoutena on ettei jo laadittua suunnitelmaa voida oikeastaan muuttaa vaikka olosuhteet sitä vaatisivatkin sekä suunnitelmissa syntyvät virheet ja heikkoudet havaitaan liian myöhään, mikä johtaa siihen ettei alkuperäinen suoraviivainen suunnitelma enää pidä. Vastaus tälläisiin ongelmiin on pyritty löytämään inkremantaalisista ja iteratiivisita menetelmistä, missä suunnitelmia ei laadita liian paljoa etukäteen ja ohjelman kehitystä tehdään jatkuvasti, jolloin suunnitelmia voidaan parantaa. Suomalainen mainitsee tunnetuimmiksi menetelmiksi Extreme Programming eli XP, Rapid Application Development eli RAD, Spiraalimalli ja Rational Unified Process eli RUP. Edellä mainitut menetelmät ovat myös keskeisempiä ketteriä menetelmiä. Ketterien menetelmien paino on mukautumisessa ja vaatimusten uudelleen arvioinissa. Lähes kaikki ketterät menetelmät hyödyntävät iteratiivista tapaa edetä. Ketterille menetelmille keskeistä on kehittäjien itsenänen hierarkiaton toiminta, tiivis yhtestyö asiakkaan kanssa sekä toimivan ohjelmiston tuottaminen jatkuvasti.
+
+### Lähteet
+
+Suomalainen Lauri,
+*Ohjelmistotuotantomenetelmien kehittyminen 1950-
+luvulta nykypäivään*, Helsingin yliopisto tietojenkäsittelytieteen laitos, 2. helmikuuta 2014
+
